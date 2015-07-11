@@ -10,9 +10,11 @@ or the pitch of audio ( via pitch).
 
 The UI of app is also simple, 2 viewControllers, the first one with 2 buttons (record and stop),
 and the second with 5 buttons (fast, slow, high pitch, low pitch, and stop). The app has been tested
-and working well.
+and working well. The pictures for the button are from Google Pictures.
+
+Environment: Xcode Version 6.4
 
 ![Alt text](https://github.com/ytian90/PitchDemo/blob/master/fig1.jpg?raw=true "Optional Record View")
 ![Alt text](https://github.com/ytian90/PitchDemo/blob/master/fig2.jpg?raw=true "Optional Play View")
 
-Environment: Xcode Version 6.4
+Copyright (c) 2015 Yu Tian. All rights reserved.
