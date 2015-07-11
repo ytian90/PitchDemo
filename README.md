@@ -12,4 +12,6 @@ The UI of app is also simple, 2 viewControllers, the first one with 2 buttons (r
 and the second with 5 buttons (fast, slow, high pitch, low pitch, and stop). The app has been tested
 and working well.
 
+![Alt text](/relative/path/to/fig1.jpg?raw=true "Optional Record View")
+
 Environment: Xcode Version 6.4
